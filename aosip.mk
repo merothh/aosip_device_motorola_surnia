@@ -17,7 +17,7 @@ $(call inherit-product, device/motorola/surnia/full_surnia.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := surnia
-PRODUCT_NAME := aosp_surnia
+PRODUCT_NAME := aosip_surnia
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
 PRODUCT_RELEASE_NAME := surnia
